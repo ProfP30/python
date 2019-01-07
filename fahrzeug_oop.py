@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# coding = utf-8
 class Fahrzeug:    
     Instanzen = 0   
     _Instanzen = 0

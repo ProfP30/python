@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# coding = utf-8
 anz_autos = 0
 anz_fahrraeder = 0
 anz_fahrzeuge = 0
